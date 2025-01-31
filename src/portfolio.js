@@ -26,8 +26,8 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1uHMZwb7pm5u2HcWUoV_UAtUstPFPNGA7/view?usp=drivesdk",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+  portfolio_repository: "https://github.com/Maheshkm11/test3",
+  githubProfile: "https://github.com/Maheshkm11",
 };
 
 const socialMediaLinks = [
