@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "Portfolio",
+  "name": "masterPortfolio",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://Maheshkm11.github.io.",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
